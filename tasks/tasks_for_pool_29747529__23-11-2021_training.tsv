@@ -1,0 +1,2 @@
+INPUT:image_left	INPUT:image_right	GOLDEN:result	GOLDEN:textfield	HINT:text
+https://toloka.yandex.com	https://toloka.yandex.com	Add your text here	Add your text here	Add your hint here
